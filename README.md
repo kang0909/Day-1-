@@ -1,2 +1,2 @@
-Day1 필수과제
+Python Day1 필수과제
 
